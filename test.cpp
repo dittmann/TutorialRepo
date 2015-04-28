@@ -4,6 +4,7 @@ const int N = 100;
 
 
 
+
 int main()
 {
     bool sieve[N];
